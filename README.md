@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ufuk</h1>
 
-<!--
-**UfukGuler34/UfukGuler34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **ufuk.gulermega@gmail.com**
+
+[![Twitter Badge](https://img.shields.io/badge/@UfukGuler-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/UfkGuler35)](https://twitter.com/UfkGuler35)
+[![Linkedin Badge](https://img.shields.io/badge/-UfukGuler34-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/UfukGuler34/)](https://www.linkedin.com/in/UfukGuler34/)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UfukGuler34&show_icons=true" alt="UfukGuler34" /></p>
+
+
